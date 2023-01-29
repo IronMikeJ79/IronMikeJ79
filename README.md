@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @IronMikeJ79
 - 📫 How to reach me : email - michael@methodfoundry.co.za
                       
 <!---
